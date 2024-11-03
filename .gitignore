@@ -1,0 +1,18 @@
+# Fichiers compilés
+*.class
+*.jar
+
+# Dossiers de compilation
+/bin/
+# Si vous avez un dossier pour les bibliothèques
+/lib/
+
+# Dossiers de configuration de l'IDE
+/.idea/
+/.vscode/
+
+# Fichiers temporaires et de sauvegarde
+*.log
+*.tmp
+*~
+.DS_Store
